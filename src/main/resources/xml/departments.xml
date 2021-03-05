@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<departments>
+    <department>
+        <department_id>1</department_id>
+        <departmentName>MCC</departmentName>
+    </department>
+    <department>
+        <department_id>2</department_id>
+        <departmentName>ISY</departmentName>
+    </department>
+    <department>
+        <department_id>3</department_id>
+        <departmentName>DMIA</departmentName>
+    </department>
+    <department>
+        <department_id>4</department_id>
+        <departmentName>BMI</departmentName>
+    </department>
+    <department>
+        <department_id>5</department_id>
+        <departmentName>KTS</departmentName>
+    </department>
+    <department>
+        <department_id>6</department_id>
+        <departmentName>CXZ</departmentName>
+    </department>
+</departments>

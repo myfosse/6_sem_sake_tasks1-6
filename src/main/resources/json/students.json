@@ -1,0 +1,125 @@
+{
+  "students": [
+    {
+      "id": 1723360,
+      "name": "Geralt",
+      "surname": "Of Rivia",
+      "marks": [
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "departmentName": "ISY"
+    },
+    {
+      "id": 1723361,
+      "name": "Triss",
+      "surname": "Merigold",
+      "marks": [
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "departmentName": "DMIA"
+    },
+    {
+      "id": 1723362,
+      "name": "Yennifer",
+      "surname": "Yanka",
+      "marks": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "departmentName": "BMI"
+    },
+    {
+      "id": 1723364,
+      "name": "Cyril Fiona",
+      "surname": "Helen Rhiannon",
+      "marks": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "departmentName": "MCC"
+    },
+    {
+      "id": 1723365,
+      "name": "Zoltan",
+      "surname": "Hivay",
+      "marks": [
+        7,
+        7,
+        6,
+        4,
+        9
+      ],
+      "departmentName": "MCC"
+    },
+    {
+      "id": 1723412,
+      "name": "Elena",
+      "surname": "Karankevich",
+      "marks": [
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "department_id": 1,
+      "departmentName": "MCC"
+    },
+    {
+      "id": 1723359,
+      "name": "Andrey",
+      "surname": "Egorov",
+      "marks": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "department_id": 1,
+      "departmentName": "MCC"
+    },
+    {
+      "id": 1723415,
+      "name": "A",
+      "surname": "E",
+      "marks": [
+        3,
+        4,
+        3,
+        4,
+        3
+      ],
+      "department_id": 1,
+      "departmentName": "MCC"
+    },
+    {
+      "id": 1723413,
+      "name": "B",
+      "surname": "V",
+      "marks": [
+        5,
+        2,
+        1,
+        2,
+        4
+      ],
+      "department_id": 1,
+      "departmentName": "MCC"
+    }
+  ]
+}

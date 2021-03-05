@@ -1,0 +1,28 @@
+{
+  "departments": [
+    {
+      "department_id": 1,
+      "departmentName": "MCC"
+    },
+    {
+      "department_id": 2,
+      "departmentName": "ISY"
+    },
+    {
+      "department_id": 3,
+      "departmentName": "DMIA"
+    },
+    {
+      "department_id": 4,
+      "departmentName": "BMI"
+    },
+    {
+      "department_id": 5,
+      "departmentName": "KTS"
+    },
+    {
+      "department_id": 6,
+      "departmentName": "CXZ"
+    }
+  ]
+}
